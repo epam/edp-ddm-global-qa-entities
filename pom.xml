@@ -6,7 +6,7 @@
 
     <groupId>platform.qa</groupId>
     <artifactId>global-qa-entities</artifactId>
-    <version>1.6.0.3</version>
+    <version>1.6.0.4</version>
 
     <properties>
         <lombok.version>1.18.22</lombok.version>
