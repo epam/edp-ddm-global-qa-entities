@@ -18,11 +18,4 @@ import lombok.ToString;
 public class Redis {
     private String url;
     private String password;
-    private String masterName;
-
-    public Redis(String url, String password){
-        this.masterName = "mymaster";
-        this.url = url;
-        this.password = password;
-    }
 }
